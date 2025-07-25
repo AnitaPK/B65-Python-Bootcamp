@@ -8,3 +8,12 @@ def greet():
 print('outside the greet')
 
 greet()
+
+print('2 + 2 = ',2+2)
+
+'''
+sdf rty
+fghj yui vbn
+
+'''
+
